@@ -6,6 +6,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 
 ## 데모
+
 (스크린샷이나 GIF를 여기에 포함할 수 있습니다)
 
 ## 설치 방법
@@ -15,7 +16,7 @@
 
 ## 사용법
 
-(사용법을 여기에 추가하세요. 예제 코드나 스크린샷을 포함하면 좋습니다)
+(사용법을 여기에 추가하세요.)
 
 ## 기여 방법
 
